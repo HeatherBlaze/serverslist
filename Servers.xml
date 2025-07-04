@@ -447,7 +447,7 @@
   <ServerItem>
     <id>0af0021e-d3eb-4e18-866d-e2fd9ce3e7a1</id>
     <name>Leafdawn</name>
-    <description></description>
+    <description>Retail ACE Server with Some custom content.</description>
     <emu>ACE</emu>
     <server_host>leafdawn.hopto.org</server_host>
     <server_port>9000</server_port>
