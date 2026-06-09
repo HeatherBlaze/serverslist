@@ -483,7 +483,7 @@
   <ServerItem>
     <id>b18f80c2-5c50-4e4a-828b-6278f71bfaca</id>
     <name>LeafDawn</name>
-    <description>A PVE Server thats goal is to mimic end of game retail. With some custom content</description>
+    <description>A PvE server that will resemble end-of-retail with some modifications.</description>
     <emu>ACE</emu>
     <server_host>leafdawn.hopto.org</server_host>
     <server_port>9000</server_port>
